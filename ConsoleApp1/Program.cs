@@ -7,7 +7,7 @@ namespace Kalkulator
         static void Main(string[] args)
         {
             float num1 = 0;
-            int num2 = 0;
+            float num2 = 0;
 
             Console.WriteLine("KALKULATOR\r");
             Console.WriteLine("Wpisz pierwsza liczbe i nacisnij Enter");
